@@ -9,84 +9,84 @@ PR equipment can only be obtained by research the Tech Academy. Research is simi
 One thing to note is all Super Rare blueprints costs 10 blueprints more than the standard 15 blueprints, bumping it up to 25 blueprints. They are also slightly expensive to craft. Other than that, they pretty much function as other Super Rares, with the same upgrade costs in terms of gold and plates.
 
 ## Equipment List
-[![](/Resources/Advanced Steering Gears.png)](https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder)
+[![](/Resources/Advanced%20Steering%20Gears.png)](https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder)</br>
 __[Improved Hydraulic Rudder](https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder)__<br/>
 __Blueprints needed:__ 25 Blueprints<br/>
 __Description:__
 
 ---
 
-[![](/Resources/High Performance Air Radar.png)](https://azurlane.koumakan.jp/High_Performance_Anti-air_Radar)
+[![](/Resources/High%20Performance%20Air%20Radar.png)](https://azurlane.koumakan.jp/High_Performance_Anti-air_Radar)</br>
 __[High Performance Anti-Air Radar](https://azurlane.koumakan.jp/High_Performance_Anti-Air_Radar)__<br/>
 __Blueprints needed:__ 25 Blueprints<br/>
 __Description:__
 
 ---
 
-[![](/Resources/Triple 152mm BL 6in MK XXV.png)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_%28BL_6%22_Mk_XXV%29)
+[![](/Resources/Triple%20152mm%20BL%206in%20MK%20XXV.png)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_%28BL_6%22_Mk_XXV%29)</br>
 __[Triple 152mm Prototype (BL 6" Mk XXV)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_%28BL_6%22_Mk_XXV%29)__<br/>
 __Blueprints needed:__ 25 Blueprints<br/>
 __Description:__
 
 ---
 
-[![](/Resources/Triple 203mm Mle 1934.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_%28Mle_1934%29)
+[![](/Resources/Triple%20203mm%20Mle%201934.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_%28Mle_1934%29)</br>
 __[Triple 203mm Prototype (Mle 1934)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_%28Mle_1934%29)__<br/>
 __Blueprints needed:__ 25 Blueprints<br/>
 __Description:__
 
 ---
 
-[![](/Resources/Triple 203mm SK C 34.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_%28SK_C/34%29)
+[![](/Resources/Triple%20203mm%20SK%20C%2034.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_%28SK_C/34%29)</br>
 __[Triple 203mm Prototype (SK C/34)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_%28SK_C/34%29)__<br/>
 __Blueprints needed:__ 25 Blueprints<br/>
 __Description:__
 
 ---
 
-[![](/Resources/Triple 381mm BL 15in Mk III.png)]()
+[![](/Resources/Triple%20381mm%20BL%2015in%20Mk%20III.png)]()</br>
 __[]()__<br/>
 __Blueprints needed:__ 25 Blueprints<br/>
 __Description:__
 
 ---
 
-[![](/Resources/Triple 410mm 10th Year Type.png)]()
+[![](/Resources/Triple%20410mm%2010th%20Year%20Type.png)]()</br>
 __[]()__<br/>
 __Blueprints needed:__ 25 Blueprints<br/>
 __Description:__
 
 ---
 
-[![](/Resources/Twin 40mm Bofors STAAG Mk II.png)]()
+[![](/Resources/Twin%2040mm%20Bofors%20STAAG%20Mk%20II.png)]()</br>
 __[]()__<br/>
 __Blueprints needed:__ 25 Blueprints<br/>
 __Description:__
 
 ---
 
-[![](/Resources/Twin 105mm High Angle Type 98.png)]()
+[![](/Resources/Twin%20105mm%20High%20Angle%20Type%2098.png)]()</br>
 __[]()__<br/>
 __Blueprints needed:__ 25 Blueprints<br/>
 __Description:__
 
 ---
 
-[![](/Resources/550mm Triple Torpedo Launcher.png)]()
+[![](/Resources/550mm%20Triple%20Torpedo%20Launcher.png)]()</br>
 __[]()__<br/>
 __Blueprints needed:__ 10 Blueprints<br/>
 __Description:__
 
 ---
 
-[![](/Resources/550mm Twin Torpedo Launcher.png)]()
+[![](/Resources/550mm%20Twin%20Torpedo%20Launcher.png)]()</br>
 __[]()__<br/>
 __Blueprints needed:__ 5 Blueprints<br/>
 __Description:__
 
 ---
 
-[![](/Resources/Twin 100mm High Angle Mle 1931.png)]()
+[![](/Resources/Twin%20100mm%20High%20Angle%20Mle%201931.png)]()</br>
 __[]()__<br/>
 __Blueprints needed:__ 5 Blueprints<br/>
 __Description:__
