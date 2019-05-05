@@ -23,7 +23,7 @@ __Description:__
 
 ---
 
-[![](/Resources/Triple%20152mm%20BL%206in%20MK%20XXV.png)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_%28BL_6%22_Mk_XXV%29)</br>
+[![](/Resources/Triple%20152mm%20BL%206in%20Mk%20XXV.png)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_%28BL_6%22_Mk_XXV%29)</br>
 __[Triple 152mm Prototype (BL 6" Mk XXV)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_%28BL_6%22_Mk_XXV%29)__<br/>
 __Blueprints needed:__ 25 Blueprints<br/>
 __Description:__
