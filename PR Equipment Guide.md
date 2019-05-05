@@ -9,7 +9,7 @@ PR equipment can only be obtained by research the Tech Academy. Research is simi
 One thing to note is all Super Rare blueprints costs 10 blueprints more than the standard 15 blueprints, bumping it up to 25 blueprints. They are also slightly expensive to craft. Other than that, they pretty much function as other Super Rares, with the same upgrade costs in terms of gold and plates.
 
 ## Equipment List
-[![](/Resources/Advanced Steering Gears.png)](https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder)
+[![Improved_Hydraulic_Rudder](/Resources/Advanced_Steering_Gears.png)](https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder)
 __[Improved Hydraulic Rudder](https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder)__<br/>
 __Blueprints needed:__ 25 Blueprints<br/>
 __Description:__
