@@ -80,7 +80,7 @@ Recommended. [Roon](https://azurlane.koumakan.jp/Roon), a PR ship benefits this 
 __[Triple 381mm Prototype (BL 15" Mk III)](https://azurlane.koumakan.jp/Triple_381mm_Prototype_%28BL_15%22_Mk_III%29)__<br/>
 __Equipment Type:__ BB Gun<br/>
 __Blueprints needed to craft:__ 25 Blueprints<br/>
-__Description:__ A HE BB gun. Functionally similar to the [Triple 406mm Mk 6](https://azurlane.koumakan.jp/Triple_406mm_%2816%22/45_caliber_Mark_6%29), it trades some raw damage for more FP and a better RoF. Basically a barrage version of the [Triple 406mm Mk 6](https://azurlane.koumakan.jp/Triple_406mm_%2816%22/45_caliber_Mark_6%29) but it's still slower compared to the [Twin 381mm Mk 2 Prototype](https://azurlane.koumakan.jp/Twin_381mm_%28BL_15%22_Mk_II%29) and the [Twin 410mm Mounted Gun](Twin 410mm %283rd Year Type%29).
+__Description:__ A HE BB gun. Functionally similar to the [Triple 406mm Mk 6](https://azurlane.koumakan.jp/Triple_406mm_%2816%22/45_caliber_Mark_6%29), it trades some raw damage for more FP and a better RoF. Basically a barrage version of the [Triple 406mm Mk 6](https://azurlane.koumakan.jp/Triple_406mm_%2816%22/45_caliber_Mark_6%29) but it's still slower compared to the [Twin 381mm Mk 2 Prototype](https://azurlane.koumakan.jp/Twin_381mm_%28BL_15%22_Mk_II%29) and the [Twin 410mm Mounted Gun](https://azurlane.koumakan.jp/Twin 410mm %283rd Year Type%29).
 
 Best used for monitors due to their low overall FP but having their good barrages to keep up with the DPS. This is also a good gun for battleships that rely heavily on barrages/skill procs while still being able to dish out damage with its FP.
 
