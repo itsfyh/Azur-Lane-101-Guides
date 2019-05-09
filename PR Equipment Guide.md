@@ -16,7 +16,7 @@ PR equipment can only be obtained by research the [Tech Academy](https://azurlan
 One thing to note is all Super Rare blueprints costs 10 blueprints more than the standard 15 blueprints, bumping it up to 25 blueprints. They are also slightly expensive to craft. Other than that, they pretty much function as other Super Rares, with the same upgrade costs in terms of gold and plates.
 
 ## Equipment List
-[![](/Resources/Advanced%20Steering%20Gears.png)](https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder)</br>
+[![](/Resources/Advanced_Steering_Gears.png)](https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder)</br>
 __[Improved Hydraulic Rudder](https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder)__<br/>
 __Equipment Type:__ Auxiliary<br/>
 __Blueprints needed to craft:__ 25 Blueprints<br/>
@@ -28,7 +28,7 @@ Highly Recommended for grabs. Please also note that you can only have one of the
 
 ---
 
-[![](/Resources/High%20Performance%20Air%20Radar.png)](https://azurlane.koumakan.jp/High_Performance_Anti-air_Radar)</br>
+[![](/Resources/High_Performance_Air_Radar.png)](https://azurlane.koumakan.jp/High_Performance_Anti-air_Radar)</br>
 __[High Performance Anti-Air Radar](https://azurlane.koumakan.jp/High_Performance_Anti-Air_Radar)__<br/>
 __Equipment Type:__ Auxiliary<br/>
 __Blueprints needed to craft:__ 25 Blueprints<br/>
@@ -40,7 +40,7 @@ Recommended for grabs. It pretty much replaces [Air Radar](https://azurlane.koum
 
 ---
 
-[![](/Resources/Triple%20152mm%20BL%206in%20Mk%20XXV.png)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_%28BL_6%22_Mk_XXV%29)</br>
+[![](/Resources/Triple_152mm_BL_6in_Mk_XXV.png)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_%28BL_6%22_Mk_XXV%29)</br>
 __[Triple 152mm Prototype (BL 6" Mk XXV)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_%28BL_6%22_Mk_XXV%29)__<br/>
 __Equipment Type:__ CL Gun<br/>
 __Blueprints needed to craft:__ 25 Blueprints<br/>
@@ -52,7 +52,7 @@ Recommended. [Neptune](https://azurlane.koumakan.jp/HMS_Neptune), a PR ship bene
 
 ---
 
-[![](/Resources/Triple%20203mm%20Mle%201934.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_%28Mle_1934%29)</br>
+[![](/Resources/Triple_203mm_Mle_1934.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_%28Mle_1934%29)</br>
 __[Triple 203mm Prototype (Mle 1934)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_%28Mle_1934%29)__<br/>
 __Equipment Type:__ CA Gun<br/>
 __Blueprints needed to craft:__ 25 Blueprints<br/>
@@ -64,7 +64,7 @@ Recommended. [Saint Louis](https://azurlane.koumakan.jp/Saint_Louis), a PR ship 
 
 ---
 
-[![](/Resources/Triple%20203mm%20SK%20C%2034.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_%28SK_C/34%29)</br>
+[![](/Resources/Triple_203mm_SK_C_34.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_%28SK_C/34%29)</br>
 __[Triple 203mm Prototype (SK C/34)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_%28SK_C/34%29)__<br/>
 __Equipment Type:__ CA Gun<br/>
 __Blueprints needed to craft:__ 25 Blueprints<br/>
@@ -76,7 +76,7 @@ Recommended. [Roon](https://azurlane.koumakan.jp/Roon), a PR ship benefits this 
 
 ---
 
-[![](/Resources/Triple%20381mm%20BL%2015in%20Mk%20III.png)](https://azurlane.koumakan.jp/Triple_381mm_Prototype_%28BL_15%22_Mk_III%29)</br>
+[![](/Resources/Triple_381mm_BL_15in_Mk_III.png)](https://azurlane.koumakan.jp/Triple_381mm_Prototype_%28BL_15%22_Mk_III%29)</br>
 __[Triple 381mm Prototype (BL 15" Mk III)](https://azurlane.koumakan.jp/Triple_381mm_Prototype_%28BL_15%22_Mk_III%29)__<br/>
 __Equipment Type:__ BB Gun<br/>
 __Blueprints needed to craft:__ 25 Blueprints<br/>
@@ -88,7 +88,7 @@ Recommended. [Monarch](https://azurlane.koumakan.jp/Monarch), a PR ship benefits
 
 ---
 
-[![](/Resources/Triple%20410mm%2010th%20Year%20Type.png)](https://azurlane.koumakan.jp/Triple_410mm_Prototype_%2810th_Year_Type%29)</br>
+[![](/Resources/Triple_410mm_10th_Year_Type.png)](https://azurlane.koumakan.jp/Triple_410mm_Prototype_%2810th_Year_Type%29)</br>
 __[Triple 410mm Prototype (10th Year Type)](https://azurlane.koumakan.jp/Triple_410mm_Prototype_%2810th_Year_Type%29)__<br/>
 __Equipment Type:__ BB Gun<br/>
 __Blueprints needed to craft:__ 25 Blueprints<br/>
@@ -98,7 +98,7 @@ Good to have but not necessary.
 
 ---
 
-[![](/Resources/Twin%2040mm%20Bofors%20STAAG%20Mk%20II.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG_Mk_II)</br>
+[![](/Resources/Twin_40mm_Bofors_STAAG_Mk_II.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG_Mk_II)</br>
 __[Twin 40mm Bofors STAAG Mk II](https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG_Mk_II)__<br/>
 __Equipment Type:__ AA Gun<br/>
 __Blueprints needed to craft:__ 25 Blueprints<br/>
@@ -110,7 +110,7 @@ Highly Recommended.
 
 ---
 
-[![](/Resources/Twin%20105mm%20High%20Angle%20Type%2098.png)](https://azurlane.koumakan.jp/Twin_100mm_High-Angle_%28Type_98%29)</br>
+[![](/Resources/Twin_105mm_High_Angle_Type_98.png)](https://azurlane.koumakan.jp/Twin_100mm_High-Angle_%28Type_98%29)</br>
 __[Twin 100mm High-Angle (Type 98)](https://azurlane.koumakan.jp/Twin_100mm_High-Angle_%28Type_98%29)__<br/>
 __Equipment Type:__ AA Gun<br/>
 __Blueprints needed to craft:__ 25 Blueprints<br/>
@@ -122,7 +122,7 @@ Recommended.
 
 ---
 
-[![](/Resources/550mm%20Triple%20Torpedo%20Launcher.png)](https://azurlane.koumakan.jp/550mm_Triple_Torpedo_Launcher)</br>
+[![](/Resources/550mm_Triple_Torpedo_Launcher.png)](https://azurlane.koumakan.jp/550mm_Triple_Torpedo_Launcher)</br>
 __[550mm Triple Torpedo Launcher](https://azurlane.koumakan.jp/550mm_Triple_Torpedo_Launcher)__<br/>
 __Equipment Type:__ Torpedo<br/>
 __Blueprints needed to craft:__ 10 Blueprints<br/>
@@ -134,7 +134,7 @@ Very Niche. Good to have but not necessary.
 
 ---
 
-[![](/Resources/550mm%20Twin%20Torpedo%20Launcher.png)](https://azurlane.koumakan.jp/550mm_Twin_Torpedo_Launcher)</br>
+[![](/Resources/550mm_Twin_Torpedo_Launcher.png)](https://azurlane.koumakan.jp/550mm_Twin_Torpedo_Launcher)</br>
 __[550mm Twin Torpedo Launcher](https://azurlane.koumakan.jp/550mm_Twin_Torpedo_Launcher)__<br/>
 __Equipment Type:__ Torpedo<br/>
 __Blueprints needed to craft:__ 5 Blueprints<br/>
@@ -144,7 +144,7 @@ Not Recommended.
 
 ---
 
-[![](/Resources/Twin%20100mm%20High%20Angle%20Mle%201931.png)](https://azurlane.koumakan.jp/Twin_100mm_High-Angle_Mle_1931)</br>
+[![](/Resources/Twin_100mm_High_Angle_Mle_1931.png)](https://azurlane.koumakan.jp/Twin_100mm_High-Angle_Mle_1931)</br>
 __[Twin 100mm High-Angle Mle 1931](https://azurlane.koumakan.jp/Twin_100mm_High-Angle_Mle_1931)__<br/>
 __Equipment Type:__ AA Gun<br/>
 __Blueprints needed to craft:__ 5 Blueprints<br/>
