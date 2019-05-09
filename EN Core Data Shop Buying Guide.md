@@ -63,8 +63,8 @@ One thing to note that core data shop stocks refreshes at the first day of every
 At some occasions (usually announced by the devs), there will be a 3x Core Data Rate up usually lasting about a week. Any core data earned within those days have their amounts tripled (that's like 21 days of grinding core data in a week).
 
 ### Optimization of gathering Core Data?
-It is possible to calculate the amount of core data you can gain per shop reset. There are 2 ways and can be found below:
-![](https://i.imgur.com/8WStmVb.png)
+It is possible to calculate the amount of core data you can gain per shop reset. There are 2 ways and can be found below:<br>
+![](/Resources/Formulas/Core_Data_Formula.png)<br>
 Second formula is used when there is 3x Core Data drops on some weeks.
 
 ---
