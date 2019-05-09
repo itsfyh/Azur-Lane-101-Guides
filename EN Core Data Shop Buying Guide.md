@@ -23,7 +23,7 @@ __Description:__ The historically accurate Hood gun. Very similar in function to
 ### Spare Core Data Picks
 Picks here are mainly if you have spare core data. These are also good equipment for purchase but usually are in a slightly lower priority than the recommended picks. You can still pick some equipment here first if you really want to.
 
-![](Resources\Type_93_Pure_Oxygen_Torpedo.png)<br>
+![](/Resources/Type_93_Pure_Oxygen_Torpedo.png)<br>
 __[Type 93 Pure Oxygen Torpedo]()__<br>
 __Price:__ 1500 Core Data<br>
 __Recommended Purchase Amount:__ at least 3-5 (buy more if you want)<br>
@@ -31,7 +31,7 @@ __Description:__ This equipment, when maxed out, will give flat 100 torpedo stat
 
 The Oxytorp is a pretty expensive pick though and its stat boosts can't really compete with base damage upgrades or ballistic changes. Still though, if you have all the spare core data, do invest in some of these.
 
-![](Resources\Triple_203mm_Prototype_No_3.png)<br>
+![](/Resources/Triple_203mm_Prototype_No_3.png)<br>
 __[Twin 203mm Prototype (No. 3)]()__<br>
 __Price:__ 800 Core Data<br>
 __Recommended Purchase Amount:__ at least 2-3 (buy more if you want)<br>
