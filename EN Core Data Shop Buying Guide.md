@@ -36,7 +36,7 @@ Highly recommended for most, if not all BB/BC/BM/BBVs. A must have core data sho
 __Super Heavy Shell__<br>
 __Price:__ 800 Core Data<br>
 __Recommended Purchase Amount:__ at least 3 minimum, preferably 1 for every BB/BC/BM/BBV you use<br>
-__Description:__ The black shell. The cousin of the AP shell, while it doesn't have accuracy stat bonuses, it instead has a 70 firepower stat bonus (when maxed out) and an increase in shelling critical chance (8%). Basically the gun counterpart stat stick to the Oxytorp. BB/BC/BM/BBVs can benefit much for this increase in firepower.
+__Description:__ The black shell. The cousin of the AP shell, while it doesn't have accuracy stat bonuses, it instead has a 70 firepower stat bonus (when maxed out) and an increase in shelling critical chance (8%). Basically the gun counterpart stat stick to the Oxytorp. BB/BC/BM/BBVs can benefit much for this increase in firepower, though not all can benefit this much firepower increase.
 
 Recommended for picks. Often paired with Type 1 Armor Piercing shell.
 
