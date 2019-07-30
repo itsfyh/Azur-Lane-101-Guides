@@ -1,5 +1,5 @@
 # EN Server's Definitive Core Data Shop Buying Guide
-Current Month: May
+Current Month: August (well coming soon)
 
 An informational guide created by itsfyh aka pootatoast#1337.
 
