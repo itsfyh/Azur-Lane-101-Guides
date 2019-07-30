@@ -25,7 +25,7 @@ Buy the High Priority ones first, then you can decide to save or buy additional 
 Picks here are highly recommended to grab one as soon as you have enough core data.
 
 ![](/Resources/SR_Type_1_AP_Shell.png)<br>
-__[Type 1 Armor Piercing Shell]()__<br>
+__Type 1 Armor Piercing Shell__<br>
 __Price:__ 800 Core Data<br>
 __Recommended Purchase Amount:__ at least 3 shells minimum, preferably 1 for every BB/BC/BM/BBV you use<br>
 __Description:__ The white shell. One of the best auxiliary equipment to be used by BB/BC/BM/BBVs. Massive raw firepower (55  maxed out) stat increase with some nice accuracy (15 maxed out) stat increase, they're among one of the BB/BC/BM/BBVs best friend, along with the SHS. Additionally, it also increases the shelling critical damage (25% increase) which when it does crit, it hits very hard.
@@ -33,7 +33,7 @@ __Description:__ The white shell. One of the best auxiliary equipment to be used
 Highly recommended for most, if not all BB/BC/BM/BBVs. A must have core data shop pick as it's mandatory for the ship classes mentioned (some exceptions apply).
 
 ![](/Resources/SR_Super_Heavy_Shell.png)<br>
-__[Super Heavy Shell]()__<br>
+__Super Heavy Shell__<br>
 __Price:__ 800 Core Data<br>
 __Recommended Purchase Amount:__ at least 3 minimum, preferably 1 for every BB/BC/BM/BBV you use<br>
 __Description:__ The black shell. The cousin of the AP shell, while it doesn't have accuracy stat bonuses, it instead has a 70 firepower stat bonus (when maxed out) and an increase in shelling critical chance (8%). Basically the gun counterpart stat stick to the Oxytorp. BB/BC/BM/BBVs can benefit much for this increase in firepower.
@@ -44,7 +44,7 @@ Recommended for picks. Often paired with Type 1 Armor Piercing shell.
 Picks here are mainly if you have spare core data. These are also good equipment for purchase but usually are in a slightly lower priority than the recommended picks. You can still pick some equipment here first if you really want to.
 
 ![](/Resources/UR_Type_93_Oxytorp.png)<br>
-__[Type 93 Pure Oxygen Torpedo]()__<br>
+__Type 93 Pure Oxygen Torpedo__<br>
 __Price:__ 1500 Core Data<br>
 __Recommended Purchase Amount:__ at least 3-5 torps (buy more if you want)<br>
 __Description:__ This equipment, when maxed out, will give flat 100 torpedo stat which is huge buff for the torpedoes. Highly recommended for all DDs like Ayanami and Yuudachi for example. This auxiliary also benefits torpedo CLs and CAs as well to increase their damage output (especially CAs due to have a more effective gain).
@@ -52,13 +52,13 @@ __Description:__ This equipment, when maxed out, will give flat 100 torpedo stat
 The Oxytorp is a pretty expensive pick though and its stat boosts can't really compete with base damage upgrades or ballistic changes. Still though, if you have all the spare core data, do invest in some of these.
 
 ![](/Resources/SR_Fairey_Swordfish_818.png)<br>
-__[Fairey Swordfish (818 Squadron)]()__<br>
+__Fairey Swordfish (818 Squadron)__<br>
 __Price:__ 800 Core Data<br>
 __Recommended Purchase Amount:__ at least 1-2 planes (buy more if you want)<br>
 __Description:__ While weaker than most of the SR Torpedo Bombers in terms of damage and slightly slow launching, it makes up for its ability to inflict targets with slow movement (60% for 8 seconds), an effect most often found by Ark Royal and Centaur's skills. Good for constantly moving targets and fast movers. Often best used by ships with fewer torpedo bomber slots but nonetheless they can be used by any CV/CVL.
 
 ![](/Resources/SR_Twin_203mm_No_3_Prototype.png)<br>
-__[Twin 203mm Prototype (No. 3)]()__<br>
+__Twin 203mm Prototype (No. 3)__<br>
 __Price:__ 800 Core Data<br>
 __Recommended Purchase Amount:__ at least 2-3 (buy more if you want)<br>
 __Description:__ Commonly known as the Atago gun or A Taco gun, the 203mm Proto Type 3 is a straight upgraded 203mm Mounted gun with slightly better stats than its predecessor. Otherwise, its role is pretty much the same to the 203mm Mounted gun.
@@ -71,12 +71,12 @@ Recommended for players investing heavily on CAs.
 Equipment mentioned here are not good picks due either being useless, or another equipment performing better than the ones listed here. Still, they are mentioned here as a caution to not pick these ones (unique equipment :butsuckystare:).
 
 ![](/Resources/E_Grumman_XF5F_Skyrocket.png)<br>
-__[XF5F Skyrocket]()__<br>
+__XF5F Skyrocket__<br>
 __Price:__ 500 Core Data<br>
 __Description:__ Fastest deploying fighters in the game. Doesn't help much since they can't drop bombs and AA wise, they are outclassed by easily available gold fighters.
 
 ![](/Resources/E_Type_94_Director.png)<br>
-__[Type 94 AA Director]()__<br>
+__Type 94 AA Director__<br>
 __Price:__ 300 Core Data<br>
 __Description:__ Basically a weaker Air Radar with accuracy stat increase. Obsolete due to PR AA radar outperforming both of them.
 
