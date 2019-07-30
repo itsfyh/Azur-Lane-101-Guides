@@ -97,6 +97,7 @@ The amount of Core Data per Hardmode world is as follows:
 - Chapter 5 (5-x) = 14
 - Chapter 6 (6-x) = 16
 - Chapter 7 (7-x) = 18
+- Chapter 8 (8-x) = 20
 
 One thing to note that core data shop stocks refreshes at the first day of every month and they may or may not add/remove new equipment/items. Also, you get to keep the core data forever as they're not tied to each map and will carry over to next month and so on.
 
